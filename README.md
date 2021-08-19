@@ -9,7 +9,7 @@ We **do not** want you to think of this as a test or an exam, but instead, more 
 <br />
 
 ---
-## Technical Challenge Part 1 - Coding
+## Technical Challenge Part 1 - Coding  🕑
 
 To give you an opportunity to demonstrate your coding skills, we have designed a challenge for you in **`CodeSignal`**.
 
@@ -25,7 +25,7 @@ You can access this part of the challenge using the following **[link](https://a
 
 
 ---
-## Technical Challenge Part 2 - Practical Applications
+## Technical Challenge Part 2 - Practical Applications 🕑
 
 For the second part of the challenge, we would like you to fork **[this](https://github.com/wizelineacademy/sre-bootcamp)** repository. This will help us get an understanding of your operational skills, no matter which technology stack is used.
 
