@@ -9,7 +9,7 @@ We **do not** want you to think of this as a test or an exam, but instead, more 
 <br />
 
 ---
-## Technical Challenge Part 1 - Coding  🕑
+## Technical Challenge Part 1 - Coding  👍
 
 To give you an opportunity to demonstrate your coding skills, we have designed a challenge for you in **`CodeSignal`**.
 
