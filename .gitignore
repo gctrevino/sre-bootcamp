@@ -50,6 +50,7 @@ provision/.ssh
 __pycache__/
 *.py[cod]
 venv
+.vscode
 
 # Provision
 provision/.*/*
