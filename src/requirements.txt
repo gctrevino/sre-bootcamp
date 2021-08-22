@@ -1,1 +1,4 @@
 Flask
+pyjwt
+mysql-connector-python
+python-dotenv
