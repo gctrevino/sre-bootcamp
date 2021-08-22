@@ -1,6 +1,7 @@
 from flask import Flask
 from flask import jsonify
 from flask import request
+from flask import render_template
 from methods import Token, Restricted
 
 app = Flask(__name__)
@@ -18,6 +19,12 @@ def url_root():
 @app.route("/_health")
 def url_health():
     return "OK"
+
+
+@app.route("/login")
+def url_login_403():
+    #return render_template('403.html'), 403
+    return {"error": {"code": 403, "message": "Forbidden"}}, 403
 
 
 # e.g. http://127.0.0.1:8000/login
